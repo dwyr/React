@@ -1,5 +1,5 @@
 # React.js
-==========
+
 + React.js快速开始
 http://www.phperz.com/article/15/0712/140537.html#
 
