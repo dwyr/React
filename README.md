@@ -1,31 +1,31 @@
 # React.js
 
 + React.js快速开始
-http://www.phperz.com/article/15/0712/140537.html#
+  - http://www.phperz.com/article/15/0712/140537.html#
 
 + Reactjs 2016最佳实践
-http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/
+ - http://www.alloyteam.com/2016/01/reactjs-best-practices-for-2016/
 
 + React 入门教程
-https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
+ - https://hulufei.gitbooks.io/react-tutorial/content/introduction.html
 
 + React中文文档 （0.13.0）
-http://reactjs.cn/
+ - http://reactjs.cn/
 
 + React Server Side Rendering 解决 SPA 应用的 SEO 问题
-https://www.v2ex.com/t/242209#reply3
+ - https://www.v2ex.com/t/242209#reply3
 
 + ant react组件
-https://github.com/react-component
+ - https://github.com/react-component
 
 + React 让你不爽了么？
-https://github.com/ReactDemos/react-makes-you-sad
+ - https://github.com/ReactDemos/react-makes-you-sad
 
 + React+Webpack快速上手指南
-http://www.jianshu.com/p/418e48e0cef1
+ - http://www.jianshu.com/p/418e48e0cef1
 
 + ant.design gitter
-https://gitter.im/ant-design/ant-design
+ - https://gitter.im/ant-design/ant-design
 
 + ant.design react 组件 
 http://ant.design/docs/react/introduce
