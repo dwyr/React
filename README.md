@@ -1,5 +1,3 @@
-学习React.js
-
 # React.js
 
 + React.js快速开始
