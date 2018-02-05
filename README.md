@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React
 A demo based on React+Mobx+ReactRouter+Webpack+Decorators+Express4
 
@@ -29,3 +30,7 @@ A demo based on React+Mobx+ReactRouter+Webpack+Decorators+Express4
 `
   学习资料详见docs
 `
+=======
+# React.js
+### 学习资料详见docs
+>>>>>>> 411543faf02cfda34bd3c7583fd518879b31ed51
